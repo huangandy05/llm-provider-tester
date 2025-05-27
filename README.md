@@ -7,7 +7,7 @@ This application allows you to test different LLM providers (OpenAI, Anthropic, 
 - Support for multiple LLM providers:
   - OpenAI (gpt-4, gpt-4o, o4-mini, o3-mini)
   - Anthropic (claude-3-5-haiku-20241022, claude-3-7-sonnet-20250219, claude-sonnet-4-20250514)
-  - Google Gemini (gemini-1.5-pro, gemini-1.5-flash, gemini-1.0-pro)
+  - Google Gemini (gemini-1.5-pro, gemini-2.0-flash, gemini-1.0-pro)
 - API key validation
 - Simple prompt/response interface
 - Error handling and feedback
